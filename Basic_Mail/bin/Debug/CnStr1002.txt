@@ -1,0 +1,1 @@
+Data Source=GHOST_DWIDAR\GHOST_DWIDAR;Initial Catalog=BasicMail;Integrated Security=True

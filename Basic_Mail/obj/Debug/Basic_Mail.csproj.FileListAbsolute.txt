@@ -1,0 +1,15 @@
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\bin\Debug\Basic_Mail.exe.config
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\bin\Debug\Basic_Mail.exe
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\bin\Debug\Basic_Mail.pdb
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.csprojResolveAssemblyReference.cache
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.Form1.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.Properties.Resources.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.csproj.GenerateResource.Cache
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.exe
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.pdb
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.Home.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.SignUp.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.ProfileData.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.Searched_UserProfile.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.ComposeForm.resources
+F:\DB_BasicMail_Project\Basic_Mail\Basic_Mail\obj\Debug\Basic_Mail.Inbox.resources
